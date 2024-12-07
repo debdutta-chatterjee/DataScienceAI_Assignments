@@ -1,0 +1,71 @@
+Lesson : Interview Questions
+
+This document has been made after discussion with 100s of candidates, industry experts and looking after many interview portals. Roles and company name where the question was asked is also mentioned. Company names and Roles can be overlapping. Numbers after that is the importance level. 1 being the lowest importance and 3 being highest importance. Sometimes the roles and companies are not mentioned but still important.
+
+Intro to Data Structures
+
+1. What are the different types of data structures in Python? 1
+
+
+ 
+
+2. What is recursion? How to implement Fibonacci series?
+
+[Flipkart, Oyo, TCS], 3
+
+
+ 
+
+3. Find the factorial of a no using Python? 3
+
+
+ 
+
+4. What is disadvantage of nested if-else? How can we remove it? Show with Python code and example?
+
+[3]
+
+
+ 
+
+5. How would you reverse a string in Python without using built-in functions?
+
+[Data Science, Business Analyst], [Wipro, TCS], 2
+
+
+ 
+
+6. Explain string immutability in Python.
+
+[Machine Learning Engineer, Data Science], [Infosys, Cognizant], 2
+
+
+ 
+
+7. What are the advantages of using lists in Python?
+
+
+ 
+
+8. How are Python sets different from lists and tuples?
+
+[Data Analytics], [PayPal, IBM], 2
+
+
+ 
+
+9. What is the difference between a shallow copy and a deep copy in lists?
+
+[Machine Learning Engineer, Data Science], [Google, Cognizant], 3
+
+
+ 
+
+10. When would you use a dictionary over a list? 3
+
+
+ 
+
+11. How do you merge two dictionaries in Python?
+
+[Data Science, Data Analytics], [TCS, Cognizant], 2
