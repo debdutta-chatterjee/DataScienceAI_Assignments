@@ -1,0 +1,99 @@
+1. What is the importance of functions in Python?
+
+
+ 
+
+2. Explain the difference between default arguments and keyword arguments in Python.
+
+[Machine Learning Engineer], [Infosys, Microsoft], 3
+
+
+ 
+
+3. What are *args and kwargs in Python, and how are they used?
+
+[Data Science, Data Analytics], [Swiggy, Google], 2
+
+
+ 
+
+4. How do iterators differ from generators? Provide examples.
+
+
+ 
+
+Lambda, Map, Reduce, and Filter
+
+5. Explain lambda functions in Python. How are they different from normal functions?
+
+[Data Science, Data Analytics], [Amazon, Tata Consultancy], 3
+
+
+ 
+
+6. How would you use map(), filter(), and reduce() in Python? Provide examples.
+
+[Machine Learning Engineer, Data Science], [Google, Flipkart], 2
+
+
+ 
+
+7. What is the benefit of using lambda expressions with map and filter functions?
+
+[Data Analytics, Machine Learning Engineer], [TCS, IBM], 2
+
+
+ 
+
+OOPs in Python
+
+8. What are classes and objects in Python? Explain with examples.
+
+
+ 
+
+9. Explain the concept of inheritance in Python. How does it work?
+
+[Machine Learning Engineer, Data Science], [Infosys, Cognizant], 3
+
+
+ 
+
+10. What is the difference between single inheritance and multiple inheritance in Python?
+
+[Data Science, Business Analyst], [Capgemini, Flipkart], 2
+
+
+ 
+
+11. What is encapsulation, and how is it implemented in Python?
+
+[Machine Learning Engineer, Data Science], [IBM, Zomato], 3
+
+
+ 
+
+12. What are static methods and class methods? Explain with an example.
+
+
+ 
+
+13. What are dunder methods in Python? Why are they useful?
+
+[Data Science, Data Analytics], [Microsoft, Swiggy], 2
+
+
+ 
+
+14. What is the difference between method overriding and method overloading?
+
+[Machine Learning Engineer, Data Science], [Infosys, Paytm], 3
+
+
+ 
+
+15. Explain the use of decorators in Python and provide an example.
+
+[Data Science, Data Analytics], [Amazon, Wipro], 3
+
+
