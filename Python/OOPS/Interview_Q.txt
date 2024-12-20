@@ -1,0 +1,44 @@
+1. What are classes and objects in Python? Explain with examples.
+
+
+ 
+
+2. Explain the concept of inheritance in Python. How does it work?
+(Roles: [Machine Learning Engineer, Data Science], Companies: [Infosys, Cognizant], Importance: 3)
+
+
+ 
+
+3. What is the difference between single inheritance and multiple inheritance in Python?
+(Roles: [Data Science, Business Analyst], Companies: [Capgemini, Flipkart], Importance: 2)
+
+
+ 
+
+4. What is encapsulation, and how is it implemented in Python?
+(Roles: [Machine Learning Engineer, Data Science], Companies: [IBM, Zomato], Importance: 3)
+
+
+ 
+
+5. What are static methods and class methods? Explain with an example.
+
+
+ 
+
+6. What are dunder methods in Python? Why are they useful?
+(Roles: [Data Science, Data Analytics], Companies: [Microsoft, Swiggy], Importance: 2)
+
+
+ 
+
+7. What is the difference between method overriding and method overloading?
+(Roles: [Machine Learning Engineer, Data Science], Companies: [Infosys, Paytm], Importance: 3)
+
+
+ 
+
+8. Explain the use of decorators in Python and provide an example.
+(Roles: [Data Science, Data Analytics], Companies: [Amazon, Wipro], Importance: 3)
+
+
