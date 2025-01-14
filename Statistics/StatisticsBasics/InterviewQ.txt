@@ -1,0 +1,236 @@
+1. What are descriptive and inferential statistics? How do they differ?
+
+Data Science, Business Analyst, Google, Paytm - 3
+
+2. Explain the importance of sampling in statistics.
+
+Data Science, Business Analyst, Google, Paytm - 3
+
+3. Why are measures of central tendency important in data analysis?
+
+Data Science, Business Analyst, Google, Paytm - 3
+
+4. What is the significance of the mean, median, and mode in understanding data?
+
+Data Science, Business Analyst, Google, Paytm - 3
+
+Types of Statistics
+5. What is the difference between descriptive and inferential statistics? Provide examples.
+
+Data Science, Data Analyst, Microsoft, Zomato - 2
+
+6. How do parametric and non-parametric statistics differ? When would you use each?
+
+Business Analyst, Data Analytics, TCS, Google - 3
+
+7. Explain qualitative vs. quantitative statistics with examples.
+
+Business Analyst, Data Analytics, TCS, Google - 3
+
+8. When would you use inferential statistics instead of descriptive statistics?
+
+Data Science, Data Analyst, Microsoft, Zomato - 2
+
+Types of Sampling
+9. What are the different types of sampling techniques in statistics?
+
+Data Analyst, Data Science, Flipkart, Swiggy - 2
+
+10. Explain the difference between simple random sampling and stratified sampling.
+
+Data Analyst, Data Science, Flipkart, Swiggy - 2
+
+11. How does cluster sampling work, and when would you use it?
+
+Data Analytics, Data Scientist, TCS, Razorpay - 1
+
+12. What are the advantages and disadvantages of systematic sampling?
+
+Data Analytics, Data Scientist, TCS, Razorpay - 1
+
+Types of Data
+13. What is the difference between nominal, ordinal, interval, and ratio data?
+
+Data Analytics, Data Engineer, Microsoft, Swiggy - 2
+
+14. Explain the importance of identifying the data type before performing statistical analysis.
+
+Data Analytics, Data Engineer, Microsoft, Swiggy - 2
+
+15. How would you differentiate between continuous and discrete data?
+
+Data Science, Data Analyst, Google, Flipkart - 2
+
+16. Why is it crucial to know whether data is categorical or numerical in statistics?
+
+Data Science, Data Analyst, Google, Flipkart - 2
+
+Measure of Central Tendency
+17. Explain the concept of central tendency in statistics and its importance.
+
+Data Analyst, Business Analyst, TCS, Amazon - 3
+
+18. What are the three main measures of central tendency, and when would you use each?
+
+Data Science, Data Analytics, Flipkart, Infosys - 2
+
+19. When is the median a better measure than the mean?
+
+Data Science, Data Analytics, Flipkart, Infosys - 2
+
+20. How does mode help in understanding the distribution of data?
+
+Data Analyst, Business Analyst, TCS, Amazon - 3
+
+Measures of Central Tendency - Python Implementation
+21. How do you calculate mean, median, and mode in Python using Pandas?
+
+Data Science, Data Analytics, Microsoft, Swiggy - 3
+
+22. Write a Python code to compute the mean and median from a list of numbers.
+
+Data Science, Data Analytics, Microsoft, Swiggy - 3
+
+23. How can you handle missing data when calculating central tendency in Python?
+
+Data Science, Data Analytics, Microsoft, Swiggy - 3
+
+24. Explain how to use the scipy.stats module to find the mode in Python.
+
+Data Science, Data Analytics, Microsoft, Swiggy - 3
+
+Measure of Dispersion
+25. What is the significance of measuring dispersion in data analysis?
+
+Data Science, Business Analyst, Flipkart, TCS - 3
+
+26. Explain the difference between range, variance, and standard deviation.
+
+Data Analyst, Data Engineer, Amazon, Zomato - 2
+
+27. Why is it important to know the variability in a dataset?
+
+Data Science, Business Analyst, Flipkart, TCS - 3
+
+28. How do you interpret a large standard deviation in a dataset?
+
+Data Analyst, Data Engineer, Amazon, Zomato - 2
+
+Measure of Spread: Variance & Standard Deviation
+29. How do you compute variance and standard deviation in a dataset?
+
+Data Science, Business Analyst, Google, Swiggy - 2
+
+30. What does a higher standard deviation indicate about your data?
+
+Data Analyst, Machine Learning Engineer, Uber, Oracle - 3
+
+31. How does variance differ from standard deviation?
+
+Data Science, Business Analyst, Google, Swiggy - 2
+
+32. Why is the standard deviation often preferred over the variance in interpreting data?
+
+Data Analyst, Machine Learning Engineer, Uber, Oracle - 3
+
+33. Why n-1 for sample variance is used?
+
+Data Science, Business Analyst, Google, Swiggy - 2
+
+Implementation of Spread Variance
+34. Write Python code to calculate the variance of a given list of numbers.
+
+Business Analyst, Data Engineer, Flipkart, Amazon - 2
+
+35. How would you use NumPy to compute the variance and standard deviation of an array in Python?
+
+Business Analyst, Data Engineer, Flipkart, Amazon - 2
+
+36. What is the difference between np.var() and np.std() in Python?
+
+Business Analyst, Data Engineer, Flipkart, Amazon - 2
+
+37. How do you handle missing values when calculating variance in Python?
+
+Business Analyst, Data Engineer, Flipkart, Amazon - 2
+
+Measure of Symmetry (Skewness)
+38. Explain the concept of skewness in statistics and its importance in understanding data distribution.
+
+Data Scientist, Data Analyst, Microsoft, Paytm - 3
+
+39. What are the different types of skewness, and how do you identify them?
+
+Data Scientist, Data Analyst, Microsoft, Paytm - 3
+
+40. How would you interpret a positively skewed distribution?
+
+Data Scientist, Data Analyst, Microsoft, Paytm - 3
+
+41. How do you calculate skewness using Python libraries like Pandas or Scipy?
+
+Data Scientist, Data Analyst, Microsoft, Paytm - 3
+
+Set
+42. Explain the difference between union, intersection, and complement of sets in statistics.
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+43. Why are sets important in understanding probability distributions?
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+44. How are sets used in real-life data science problems?
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+45. How do you create and manipulate sets in Python using the built-in set() function?
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+46. Write a Python code to compute the union and intersection of two sets.
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+47. Explain how to remove duplicates from a list using Python sets.
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+48. How do you check if one set is a subset of another in Python?
+
+Data Engineer, Data Analyst, Google, TCS - 2
+
+Covariance & Correlation
+49. Explain the difference between covariance and correlation.
+
+Data Science, Business Analyst, Google, Uber - 3
+
+50. When would you use covariance instead of correlation?
+
+Data Science, Business Analyst, Google, Uber - 3
+
+51. Why is correlation preferred over covariance in many cases?
+
+Data Science, Business Analyst, Google, Uber - 3
+
+52. How does correlation help in understanding relationships between variables?
+
+Data Science, Business Analyst, Google, Uber - 3
+
+53. Write Python code to calculate the covariance between two variables using NumPy.
+
+Data Scientist, Data Engineer, Flipkart, Amazon - 3
+
+54. How would you calculate Pearson correlation in Python using Pandas?
+
+Data Scientist, Data Engineer, Flipkart, Amazon - 3
+
+55. Explain how to create a correlation matrix in Python using Pandas.
+
+Data Scientist, Data Engineer, Flipkart, Amazon - 3
+
+56. What is the difference between Pearson and Spearman correlation, and how do you implement both in Python?
+
+Data Scientist, Data Engineer, Flipkart, Amazon - 3
+
+
