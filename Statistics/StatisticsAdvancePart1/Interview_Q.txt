@@ -1,0 +1,302 @@
+Interview Questions - Statistics Advance
+Random Variables
+1. What is a random variable in statistics, and how is it used in probability theory?
+
+[Data Science, Data Analyst], [Google, Oracle], 2
+
+2. Explain the difference between discrete and continuous random variables.
+
+[Data Science, Data Analyst], [Google, Oracle], 2
+
+3. How do you calculate the expected value of a random variable?
+
+[Data Science, Data Analyst], [Google, Oracle], 2
+
+4. What role do random variables play in real-life data analysis problems?
+
+[Data Science, Data Analyst], [Google, Oracle], 2
+
+Probability Distribution
+5. What are probability distributions, and why are they important in statistics?
+
+[Data Science, Machine Learning Engineer], [Flipkart, Google], 3
+
+6. Explain the difference between probability density function (PDF) and probability mass function (PMF).
+
+[Data Analyst, Business Analyst], [Amazon, Zomato], 2
+
+7. What is the cumulative density function (CDF), and how is it related to PDF and PMF?
+
+[Data Science, Data Analytics], [Microsoft, Swiggy], 3
+
+8. How do different types of probability distributions (discrete and continuous) differ?
+
+[Data Science, Data Analytics], [Microsoft, Swiggy], 3
+
+Types of Distribution
+9. What are the main types of probability distributions in statistics?
+
+[Data Science, Business Analyst], [Google, Paytm], 2
+
+10. How do normal, binomial, and Poisson distributions differ?
+
+[Data Analyst, Data Scientist], [Flipkart, Zomato], 3
+
+11. When would you use a uniform distribution over a normal distribution?
+
+[Data Science, Data Engineer], [Microsoft, Ola], 2
+
+12. Explain the concept of skewness in different probability distributions.
+
+[Data Science, Data Engineer], [Microsoft, Ola], 2
+
+13. How is a probability density function (PDF) used in continuous probability distributions?
+
+[Data Science, Machine Learning Engineer], [Flipkart, Google], 3
+
+14. Explain how the probability mass function (PMF) is used for discrete distributions.
+
+[Data Analyst, Data Scientist], [Amazon, Swiggy], 2
+
+15. What is the relationship between PDF, PMF, and CDF?
+
+[Data Science, Business Analyst], [Microsoft, Paytm], 3
+
+Discrete Uniform Distribution
+16. What is a discrete uniform distribution, and when is it used?
+
+[Data Science, Data Analyst], [Flipkart, TCS], 2
+
+17. Give an example of a real-world problem where you can apply a discrete uniform distribution.
+
+[Data Science, Data Analyst], [Flipkart, TCS], 2
+
+18. How does a discrete uniform distribution differ from a continuous uniform distribution?
+
+[Data Science, Data Analyst], [Flipkart, TCS], 2
+
+19. Explain how to calculate the probability of an event in a discrete uniform distribution.
+
+[Data Science, Data Analyst], [Flipkart, TCS], 2
+
+20. Numerical questions of the class can be asked.
+
+[Data Science, Data Analyst], [Flipkart, TCS], 2
+
+Bernoulli and Binomial Distribution
+21. What is the Bernoulli distribution, and what are its properties?
+
+[Data Science, Data Analyst], [Flipkart, Ola], 2
+
+22. Explain how a Bernoulli trial is used in binary classification problems.
+
+[Machine Learning Engineer, Data Scientist], [Google, Swiggy], 3
+
+23. How does the Bernoulli distribution relate to the binomial distribution?
+
+[Data Science, Data Analyst], [Flipkart, Ola], 2
+
+24. When would you use a Bernoulli distribution in data science?
+
+[Data Science, Data Analyst], [Flipkart, Ola], 2
+
+25. What is the binomial distribution, and how does it differ from the Bernoulli distribution?
+
+[Data Science, Business Analyst], [Amazon, Flipkart], 3
+
+26. Explain how to calculate the probability of multiple events in a binomial distribution.
+
+[Data Analyst, Data Scientist], [Google, Zomato], 2
+
+27. What is the binomial coefficient, and why is it important in the binomial distribution?
+
+[Data Science, Data Analyst], [Flipkart, Ola], 2
+
+28. How would you implement a binomial distribution in Python using NumPy?
+
+[Data Science, Data Analyst], [Flipkart, Ola], 2
+
+Poisson Distribution
+29. What is a Poisson distribution, and how is it used in real-world scenarios?
+
+[Data Science, Business Analyst], [Flipkart, Ola], 2
+
+30. When would you use a Poisson distribution instead of a binomial distribution?
+
+[Data Analyst, Data Scientist], [Google, Paytm], 3
+
+31. Explain how the Poisson distribution is applied in queuing theory.
+
+[Data Science, Business Analyst], [Flipkart, Ola], 2
+
+32. How can you compute the Poisson probability in Python using SciPy?
+
+[Data Science, Business Analyst], [Flipkart, Ola], 2
+
+Continuous Uniform Distribution
+33. What is the continuous uniform distribution, and when is it applicable?
+
+[Data Science, Data Analyst], [Google, Flipkart], 2
+
+34. Explain how to calculate the probability of an event in a continuous uniform distribution.
+
+[Data Scientist, Business Analyst], [Microsoft, Ola], 3
+
+35. How does a continuous uniform distribution differ from a normal distribution?
+
+[Data Science, Data Analytics], [Amazon, Swiggy], 2
+
+36. Provide a Python implementation of a continuous uniform distribution using NumPy.
+
+[Data Science, Data Analytics], [Amazon, Swiggy], 2
+
+37. What is the normal distribution, and why is it important in statistics?
+
+[Data Science, Business Analyst], [Google, Flipkart], 3
+
+38. Explain the properties of the normal distribution curve.
+
+[Data Scientist, Data Analyst], [Microsoft, Swiggy], 2
+
+39. When would you use a normal distribution over other probability distributions?
+
+[Data Science, Data Analyst], [Microsoft, Swiggy], 2
+
+40. How would you generate a normal distribution in Python using SciPy?
+
+[Data Science, Data Analyst], [Microsoft, Swiggy], 2
+
+41. What is the standard normal distribution, and how is it related to the normal distribution?
+
+[Data Science, Data Analyst], [Flipkart, Paytm], 2
+
+42. How do you convert a normal distribution to a standard normal distribution?
+
+[Business Analyst, Data Scientist], [Microsoft, Zomato], 3
+
+43. Explain the significance of the z-score in a standard normal distribution.
+
+[Data Science, Data Engineer], [Google, Flipkart], 2
+
+44. How do you calculate the z-score in Python for a given dataset?
+
+[Data Science, Data Engineer], [Google, Flipkart], 2
+
+Central Limit Theorem
+45. What is the central limit theorem, and why is it important in statistics?
+
+[Data Science, Data Analyst, Machine Learning Engineer], [Microsoft, Zomato], 3
+
+46. How does the central limit theorem apply to large sample sizes?
+
+[Data Science, Data Analyst, Machine Learning Engineer], [Microsoft, Zomato], 3
+
+47. Explain the role of the central limit theorem in hypothesis testing.
+
+[Data Science, Data Analyst, Machine Learning Engineer], [Microsoft, Zomato], 3
+
+48. Provide an example of how the central limit theorem is used in real-world data analysis.
+
+[Data Science, Data Analyst, Machine Learning Engineer], [Microsoft, Zomato], 3
+
+Estimate and p-value
+49. What is an estimate in statistics, and how does it differ from a parameter?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 2
+
+50. Explain the difference between a point estimate and an interval estimate.
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 2
+
+51. Why is estimation important in inferential statistics?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 2
+
+52. How do you calculate confidence intervals for an estimate in Python?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 2
+
+53. What is a p-value, and how is it used in hypothesis testing?
+
+[Data Science, Business Analyst], [Flipkart, Google], 3
+
+54. Explain the significance of a low p-value in statistical analysis.
+
+[Data Analyst, Data Scientist], [Amazon, Zomato], 2
+
+55. When would you reject the null hypothesis based on the p-value?
+
+[Data Science, Data Engineer], [Microsoft, Swiggy], 2
+
+56. How would you calculate the p-value in Python using scipy.stats?
+
+[Data Science, Data Engineer], [Microsoft, Swiggy], 2
+
+Z-Stats
+57. What is a Z-statistic, and when is it used in hypothesis testing?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 3
+
+58. How does the Z-stat differ from the T-stat?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 3
+
+59. Explain how to compute a Z-score in a normally distributed dataset.
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 3
+
+60. What is the critical value for a Z-test at a 95% confidence level?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 3
+
+Hypothesis Testing and Mechanism
+61. What is hypothesis testing, and why is it important in statistics?
+
+[Data Science, Machine Learning Engineer], [Amazon, Flipkart], 3
+
+62. Explain the steps involved in performing a hypothesis test.
+
+[Data Science, Machine Learning Engineer], [Amazon, Flipkart], 3
+
+63. How do you formulate null and alternative hypotheses in a research scenario?
+
+[Data Science, Machine Learning Engineer], [Amazon, Flipkart], 3
+
+64. What is the significance of the p-value in hypothesis testing?
+
+[Business Analyst, Data Science], [Microsoft, Ola], 3
+
+65. What is a Z-test, and how is it different from other types of hypothesis tests?
+
+[Data Science, Business Analyst], [Flipkart, Amazon], 3
+
+66. Explain how to perform a Z-test on a sample mean when population variance is known.
+
+[Data Analyst, Data Scientist], [Google, Paytm], 2
+
+67. When would you use a one-tailed Z-test vs. a two-tailed Z-test?
+
+[Data Science, Data Analyst], [Flipkart, Amazon], 3
+
+68. How do you implement a Z-test in Python using scipy.stats?
+
+[Data Science, Data Analyst], [Flipkart, Amazon], 3
+
+Type 1 and Type 2 Error
+69. What is the difference between Type 1 and Type 2 errors in hypothesis testing?
+
+[Data Analyst, Data Scientist], [Flipkart, Swiggy], 2
+
+70. Explain the significance of the significance level (alpha) in relation to Type 1 errors.
+
+[Data Analyst, Data Scientist], [Flipkart, Swiggy], 2
+
+71. How do Type 2 errors relate to statistical power in hypothesis tests?
+
+[Data Science, Machine Learning Engineer], [Microsoft, Ola], 3
+
+72. How can you minimize the occurrence of Type 1 and Type 2 errors?
+
+[Data Science, Machine Learning Engineer], [Microsoft, Ola], 3
+
+
