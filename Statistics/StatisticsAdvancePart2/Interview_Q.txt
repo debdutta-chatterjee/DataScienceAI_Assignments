@@ -1,0 +1,136 @@
+T-Test and Student’s T-Distribution
+1. What is a T-test, and when should it be used instead of a Z-test?
+
+[Data Science, Data Analyst], [Google, Flipkart], 3
+
+2. Explain how a paired T-test differs from an independent T-test.
+
+[Data Scientist, Data Engineer], [Amazon, Paytm], 2
+
+3. What assumptions need to be met for a valid T-test?
+
+4. How would you implement a T-test in Python using scipy.stats?
+
+[Data Science, Business Analyst], [Microsoft, Swiggy], 3
+
+5. What is Student's T-distribution, and how does it differ from the standard normal distribution?
+
+[Data Science, Data Analyst], [Flipkart, Google], 3
+
+6. When would you use Student's T-distribution over the normal distribution?
+
+[Data Scientist, Machine Learning Engineer], [Amazon, Zomato], 2
+
+7. What are the properties of Student's T-distribution?
+
+8. How do you calculate the degrees of freedom in a T-test using Student's T-distribution?
+
+[Data Science, Business Analyst], [Microsoft, Swiggy], 3
+
+9. What are the key differences between a T-test and a Z-test?
+
+[Data Science, Data Analyst], [Flipkart, Amazon], 3
+
+10. When would you choose to use a T-test over a Z-test in a research scenario?
+
+[Business Analyst, Data Scientist], [Google, Paytm], 2
+
+11. Explain how sample size impacts the decision to use a T-test or Z-test.
+
+12. How does the assumption of population variance affect the choice between T-test and Z-test?
+
+Confidence Interval and Margin of Error
+13. What is a confidence interval, and why is it important in inferential statistics?
+
+[Data Science, Data Analyst], [Amazon, Flipkart], 3
+
+14. Explain the relationship between confidence intervals and the margin of error.
+
+15. How do you interpret a 95% confidence interval in statistical analysis?
+
+16. How can you calculate confidence intervals in Python using scipy.stats?
+
+Chi-Square Test & Chi-Square Distribution
+17. What is the Chi-square test, and when is it used in statistical analysis?
+
+[Data Science, Business Analyst], [Flipkart, Amazon], 3
+
+18. Explain how to perform a Chi-square test of independence.
+
+[Data Analyst, Data Scientist], [Google, Swiggy], 2
+
+19. How is the Chi-square distribution related to categorical data analysis?
+
+20. Provide a Python implementation of a Chi-square test using scipy.stats.
+
+Bayes' Theorem
+21. What is Bayes' theorem, and how is it applied in data science?
+
+[Data Science, Machine Learning Engineer], [Amazon, Flipkart], 3
+
+22. Explain how Bayes' theorem is used in spam filtering or medical diagnostics.
+
+[Data Scientist, Data Analyst], [Google, Paytm], 2
+
+23. What is the difference between prior, likelihood, and posterior probabilities in Bayes' theorem?
+
+24. How would you implement Bayes' theorem in Python for a classification problem?
+
+[Data Science, Data Engineer], [Microsoft, Swiggy], 3
+
+Goodness of Fit Test
+25. What is the goodness-of-fit test, and how is it used in statistical analysis?
+
+[Data Science, Business Analyst], [Google, Flipkart], 3
+
+26. How is the Chi-square goodness-of-fit test performed?
+
+[Data Analyst, Data Scientist], [Amazon, Zomato], 2
+
+27. When would you use a goodness-of-fit test for a dataset?
+
+28. How can you implement a goodness-of-fit test in Python using scipy.stats?
+
+F-Distribution and F-Test
+29. What is the F-distribution, and how is it used in statistical analysis?
+
+[Data Science, Business Analyst], [Amazon, Flipkart], 3
+
+30. Explain the relationship between the F-distribution and analysis of variance (ANOVA).
+
+[Data Analyst, Data Scientist], [Google, Paytm], 2
+
+31. What are the properties of the F-distribution in hypothesis testing?
+
+32. How do you calculate the F-statistic in Python using scipy.stats?
+
+33. What is an F-test, and how does it differ from other statistical tests?
+
+[Data Science, Business Analyst], [Flipkart, Amazon], 3
+
+34. Explain how an F-test is used in testing for the equality of variances.
+
+[Data Analyst, Data Scientist], [Google, Swiggy], 2
+
+35. What assumptions must be met to perform an F-test?
+
+36. How do you perform an F-test in Python using scipy.stats?
+
+[Data Science, Data Engineer], [Microsoft, Ola], 3
+
+ANOVA and its Assumptions
+37. What is ANOVA, and why is it used in statistical analysis?
+
+38. Explain the assumptions that need to be met before conducting an ANOVA test.
+
+39. How does one-way ANOVA differ from two-way ANOVA?
+
+40. Provide a Python implementation of ANOVA using statsmodels or scipy.stats.
+
+41. What are the different types of ANOVA, and when should each be used?
+
+[Data Science, Business Analyst], [Flipkart, Google], 3
+
+42. Explain the difference between one-way ANOVA and two-way ANOVA.
+
+[Data Analyst]
