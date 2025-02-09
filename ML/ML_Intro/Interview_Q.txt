@@ -1,0 +1,181 @@
+Introduction to Machine Learning
+
+1. What is Machine Learning, and how does it differ from traditional programming?
+
+2. Explain how Machine Learning can be applied in e-commerce applications.
+
+3. What are some common algorithms used in Machine Learning?
+
+4. Describe the typical workflow of a Machine Learning project.
+
+[Data Scientist, Business Analyst], [Amazon, Swiggy], 2
+
+AI vs ML vs DL vs DS
+
+5. What are the key differences between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Data Science (DS)?
+
+[Data Science, Machine Learning Engineer], [Flipkart, Swiggy], 3
+
+6. Give an example of where AI is applied but not ML, and where ML is applied but not DL.
+
+[Data Scientist, Business Analyst], [Ola, Zomato], 3
+
+7. Which subfields of AI are closely related to ML, and how do they interact?
+
+8. Explain how a deep learning model can improve the results of a machine learning task.
+
+Types of Machine Learning
+
+9. What are the main types of Machine Learning, and when would you use each type?
+
+[Data Science, Data Analyst], [Swiggy, Ola], 3
+
+10. Explain the difference between supervised and unsupervised learning with examples.
+
+[Machine Learning Engineer], [Paytm, Meesho], 2
+
+11. What is reinforcement learning, and how is it different from supervised learning?
+
+12. Describe a real-world application of unsupervised learning.
+
+[Data Science, Data Analyst], [Cure.fit, PhonePe], 2
+
+Train, Test & Validation
+
+13. Why do we split data into training, testing, and validation sets?
+
+14. What is cross-validation, and when would you use it in a machine learning model?
+
+15. What is data leakage?
+
+16. Explain how to choose the appropriate size of the training, validation, and test datasets.
+
+17. What is the difference between K-fold cross-validation and standard train-test split?
+
+[Data Science], [Swiggy, Amazon], 2
+
+Overfitting, Underfitting & Bias-Variance
+
+18. What is overfitting in Machine Learning, and how can it be prevented?
+
+[Machine Learning Engineer], [Flipkart, Swiggy], 3
+
+19. Explain the concept of underfitting with an example.
+
+20. What is the bias-variance tradeoff in machine learning?
+
+21. How can regularization methods help in mitigating overfitting?
+
+Handling Missing Data
+
+22. What are some common techniques for handling missing data in a dataset?
+
+23. Explain how you would handle missing data in both categorical and numerical features.
+
+24. What is the difference between removing and imputing missing values in a dataset?
+
+25. How can you use K-nearest neighbors (KNN) to handle missing data?
+
+[Data Scientist, Machine Learning Engineer], [Zomato, Ola], 2
+
+Handling Imbalanced Datasets
+
+26. What challenges do imbalanced datasets present in Machine Learning models?
+
+27. Explain different techniques for handling imbalanced datasets.
+
+28. What is SMOTE (Synthetic Minority Over-sampling Technique), and how does it work?
+
+29. How can cost-sensitive learning be used to address class imbalance?
+
+[Data Science, Machine Learning Engineer], [Zomato, Ola], 3
+
+30. How would you implement SMOTE in Python to handle an imbalanced dataset?
+
+31. Explain how you can use imbalanced-learn Python package to manage an imbalanced dataset.
+
+32. Provide a Python implementation of oversampling a minority class in an imbalanced dataset.
+
+33. What are some other advanced Python libraries for handling imbalanced datasets?
+
+Data Interpolation
+
+34. What is data interpolation, and when is it required in machine learning?
+
+[Data Science, Data Analyst], [Cure.fit, PhonePe], 3
+
+35. Explain the difference between linear and cubic interpolation.
+
+36. How would you handle missing values using interpolation techniques?
+
+Handling Outliers
+
+37. What are outliers, and why is it important to handle them in machine learning?
+
+38. Explain different methods for detecting outliers in a dataset.
+
+[Machine Learning Engineer], [Zomato, Ola], 2
+
+39. What is the impact of outliers on machine learning models?
+
+40. How can you handle outliers using the IQR (Interquartile Range) method?
+
+[Data Scientist], [Meesho, PhonePe], 3
+
+Feature Extraction and Feature Scaling
+
+41. What is feature extraction, and why is it important in machine learning?
+
+42. Explain the difference between feature selection and feature extraction.
+
+[Data Scientist], [Zomato, Razorpay], 2
+
+43. What is feature scaling, and when should you apply it in a machine learning model?
+
+[Data Science], [Paytm, Ola], 3
+
+44. How would you implement feature scaling in Python using StandardScaler?
+
+[Data Science, Machine Learning Engineer], [Flipkart, Swiggy], 3
+
+45. What is the difference between normalization and standardization in feature scaling?
+
+[Data Scientist], [Meesho, Razorpay], 2
+
+46. Provide an implementation of MinMaxScaler in Python to scale features.
+
+47. When would you avoid scaling features in a machine learning model?
+
+[Data Science], [Zomato, PhonePe], 3
+
+Data Encoding Theory
+
+48. What is data encoding, and why is it necessary in machine learning?
+
+[Data Science, Data Analyst], [Flipkart, Swiggy], 3
+
+49.What is data encoding, and why is it necessary in machine learning?
+
+[Data Science, Data Analyst], [Flipkart, Swiggy], 3
+
+50. Explain the difference between label encoding and one-hot encoding.
+
+[Machine Learning Engineer], [Paytm, Ola], 2
+
+51. Why can label encoding be problematic for ordinal features in machine learning?
+
+52 .What is target encoding, and when would you use it in feature engineering?
+
+53 .How would you implement one-hot encoding in Python using pandas.get_dummies()?
+
+[Data Science, Machine Learning Engineer], [Flipkart, Swiggy], 3
+
+54. Provide an example of label encoding using sklearn.preprocessing.LabelEncoder.
+
+[Data Scientist], [Meesho, Paytm], 2
+
+55. Explain how to apply target encoding in Python using a third-party library.
+
+56. What is the best practice for handling categorical variables with a large number of levels?
+
+
