@@ -1,0 +1,72 @@
+Decision Tree
+1. What is a Decision Tree, and how does it work for classification problems?
+
+2. Explain the concept of entropy and information gain in the context of Decision Trees.
+[Data Scientist, Business Analyst], [Amazon, Swiggy], 3
+
+3. How does a Decision Tree handle categorical and numerical data?
+
+4. What are the advantages and disadvantages of using Decision Trees?
+
+5. Explain how the Gini Index is used to measure impurity in a Decision Tree.
+[Data Science, Machine Learning Engineer], [Flipkart, Zomato], 3
+
+6. What is the role of the splitting criterion in Decision Trees, and how is it mathematically derived?
+[Data Scientist], [Google, Amazon], 3
+
+7. Compare the Gini Index and Entropy as criteria for splitting nodes in a Decision Tree.
+[Data Analyst], [Microsoft, Swiggy], 2
+
+8. How is the concept of variance used in regression trees?
+[Machine Learning Engineer], [Meesho, Myntra], 2
+
+9. What is the difference between post-pruning and pre-pruning in Decision Trees?
+[Data Science, Machine Learning Engineer], [Flipkart, Google], 3
+
+10. How does post-pruning help to reduce overfitting in Decision Trees?
+[Data Scientist], [Amazon, Swiggy], 3
+
+11. Describe an example of a pre-pruning strategy used in Decision Trees.
+[Data Analyst], [Meesho, Zomato], 2
+
+12. How would you implement pruning techniques in Decision Trees using Python?
+
+13. How would you implement a Decision Tree Classifier in Python using Scikit-learn?
+
+14. Write a Python code snippet to train and evaluate a Decision Tree Classifier.
+[Data Scientist], [Amazon, Swiggy], 2
+
+15. How can you handle class imbalance when implementing a Decision Tree Classifier?
+[Data Analyst], [Microsoft, Meesho], 2
+
+16. Compare the performance of a Decision Tree Classifier with a Random Forest Classifier.
+
+17. What is a Decision Tree Regressor, and how does it differ from a Decision Tree Classifier?
+[Data Science, Machine Learning Engineer], [Google, Flipkart], 3
+
+18. Explain how Decision Tree Regressors handle continuous target variables.
+[Data Scientist], [Amazon, Swiggy], 3
+
+19. What are the key metrics used to evaluate the performance of a Decision Tree Regressor?
+
+20. How does the concept of mean squared error (MSE) apply to Decision Tree Regressors?
+
+21. How would you implement a Decision Tree Regressor in Python using Scikit-learn?
+
+22. Write a Python code snippet to train and evaluate a Decision Tree Regressor.
+[Data Scientist], [Swiggy, Meesho], 2
+
+23. What techniques can be used to prevent overfitting in a Decision Tree Regressor?
+
+24. Compare the performance of a Decision Tree Regressor with a Gradient Boosting Regressor.
+
+25. How do Decision Trees handle missing values in the dataset?
+[Data Science, Machine Learning Engineer], [Google, Swiggy], 3
+
+26. Discuss how the choice of hyperparameters affects the performance of a Decision Tree model.
+
+27. Compare the interpretability of Decision Trees with other machine learning models like Support Vector Machines (SVM) and Neural Networks.
+
+28. How would you address the issue of model instability in Decision Trees?
+
+

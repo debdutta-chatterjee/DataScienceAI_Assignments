@@ -1,0 +1,152 @@
+Support Vector Machines & Naive Bayes
+1. What is a Support Vector Classifier, and how does it differ from other classifiers?
+
+[Data Scientist], [Google, Paytm], 3
+
+2. Explain how a Support Vector Classifier finds the optimal hyperplane in feature space.
+
+3. Compare the performance of a Support Vector Classifier with a Decision Tree Classifier.
+
+4. What is the significance of support vectors in SVM?
+
+5. What is the difference between soft margin and hard margin in SVM?
+
+[Data Science, Machine Learning Engineer], [Flipkart, Microsoft], 3
+
+6. In what scenarios would you prefer soft margin over hard margin in SVM?
+
+[Data Scientist], [Zomato, Razorpay], 2
+
+7. Describe how the soft margin SVM adjusts the hyperplane for non-linearly separable data.
+
+8. Explain the impact of margin size on the generalization performance of an SVM classifier.
+
+9. Derive the mathematical formulation for maximizing the margin in SVM.
+
+10. Provide a detailed explanation of the Lagrange multiplier method used in SVM optimization.
+
+11. How does the quadratic programming problem relate to the SVM dual problem?
+
+12. Explain the concept of the kernel trick in SVM using mathematical equations.
+
+[Data Scientist], [Google, Amazon], 3
+
+13. How does the SVM objective function differ when switching from hard margin to soft margin?
+
+[Machine Learning Engineer], [Flipkart, Microsoft], 3
+
+14. Derive the dual form of the SVM optimization problem.
+
+15. Why does SVM attempt to maximize the margin between data points and the hyperplane? Provide a mathematical explanation.
+
+16. How does a soft margin SVM handle misclassified data points?
+
+[Data Scientist], [Swiggy, Flipkart], 2
+
+17. What is the role of the regularization parameter 'C' in a soft margin SVM?
+
+18. Explain the trade-off between margin maximization and classification error in soft margin SVM.
+
+19. How do slack variables influence the decision boundary in a soft margin classifier?
+
+20. Demonstrate how to implement an SVM classifier using scikit-learn.
+
+[Data Scientist], [Paytm, Swiggy], 3
+
+21. How would you tune the hyperparameters of a support vector classifier using Grid Search?
+
+[Machine Learning Engineer], [Amazon, Razorpay], 3
+
+22. Explain how to use cross-validation to evaluate the performance of an SVM classifier.
+
+23. Compare the performance of a Support Vector Classifier with Logistic Regression using ROC-AUC scores.
+
+24. Explain how Support Vector Regression (SVR) works and how it differs from linear regression.
+
+[Data Scientist], [Amazon, Google], 3
+
+25. How does the epsilon-tube in SVR handle errors in regression problems?
+
+26. Discuss the impact of kernel functions in Support Vector Regression (SVR).
+
+27. Compare the performance of Support Vector Regression with Ridge Regression in terms of bias-variance tradeoff.
+
+28. Demonstrate how to implement Support Vector Regression (SVR) in Python using scikit-learn.
+
+[Data Scientist], [Amazon, Flipkart], 3
+
+29. How would you tune the hyperparameters of an SVR model using Random Search?
+
+[Machine Learning Engineer], [Microsoft, Meesho], 3
+
+30. Evaluate the performance of SVR on a real-world regression problem using metrics like R² and MSE.
+
+31. Compare the performance of SVR with other regression models using cross-validation.
+
+32. What is a kernel in SVM, and how does it enable the algorithm to perform non-linear classification?
+
+[Data Scientist], [Google, Amazon], 3
+
+33. Explain the difference between linear, polynomial, and radial basis function (RBF) kernels in SVM.
+
+34. How does the kernel trick help to solve problems in high-dimensional space without explicitly computing the coordinates?
+
+35. Compare the computational efficiency of linear vs RBF kernels in SVM.
+
+36. Explain how the margin is maximized in SVM and why it is crucial for model performance.
+
+[Data Scientist], [Google, Flipkart], 3
+
+37. Discuss the significance of support vectors in SVM and their role in determining the decision boundary.
+
+38. Compare SVM with logistic regression for binary classification problems in terms of interpretability and performance.
+
+39. When would you prefer using SVM over decision trees for classification?
+
+40. What is the Naive Bayes algorithm, and why is it considered 'naive'?
+
+[Data Scientist], [Flipkart, Amazon], 3
+
+41. Discuss the independence assumption in Naive Bayes and its implications on model performance.
+
+[Machine Learning Engineer], [Swiggy, Microsoft], 2
+
+42. How does Naive Bayes perform when features are highly correlated?
+
+43. Compare Naive Bayes with other classifiers like SVM or Random Forest in terms of scalability and accuracy.
+
+44. Explain how kernel functions in SVM map data to a higher-dimensional space.
+
+[Data Scientist], [Google, Meesho], 3
+
+45. How would you choose an appropriate kernel for a given dataset in an SVM model?
+
+46. Compare the performance of polynomial and RBF kernels on a complex classification problem.
+
+47. What are the key assumptions of the Naive Bayes classifier, and how do they impact its performance?
+
+48. How does the Naive Bayes classifier handle categorical vs continuous features?
+
+49. Why naïve bayes is called naïve?
+
+50. Explain bayes theorem?
+
+51. Explain how the Naive Bayes classifier calculates the posterior probability using Bayes’ Theorem.
+
+[Data Scientist], [Flipkart, Amazon], 3
+
+52. How does the Naive Bayes algorithm perform in the presence of missing data?
+
+[Machine Learning Engineer], [Microsoft, Swiggy], 2
+
+53. Compare Gaussian Naive Bayes and Multinomial Naive Bayes for different types of data.
+
+54. What are the different types of Naive Bayes classifiers, and when would you use each variant?
+
+[Data Scientist], [Google, Meesho], 3
+
+55. Explain the differences between Gaussian Naive Bayes, Bernoulli Naive Bayes, and Multinomial Naive Bayes.
+
+56. Implement a Naive Bayes classifier in Python for text classification.
+
+57. How would you implement Gaussian Naive Bayes for a continuous dataset?
