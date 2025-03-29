@@ -1,0 +1,88 @@
+Ensemble Techniques
+1. What are ensemble techniques in machine learning, and why are they used?
+
+2. Explain the difference between bagging and boosting in ensemble methods.
+
+3. How do ensemble techniques improve model performance compared to individual models?
+
+    [Data Scientist], [Swiggy, Paytm], 2
+
+4. What is bagging, and how does it reduce variance in machine learning models?
+
+[Machine Learning Engineer], [Flipkart, Zomato], 3
+
+5. Explain how boosting methods work to convert weak learners into strong learners.
+
+[Data Scientist], [Google, Amazon], 3
+
+6. Compare bagging and boosting in terms of their impact on bias and variance.
+
+7. How would you implement a custom bagging classifier in Python?
+
+[Data Scientist], [Amazon, Razorpay], 3
+
+8. What are the advantages and limitations of using a custom bagging classifier?
+
+9. Describe the process of combining predictions from multiple models in a bagging classifier.
+
+10. Implement a custom bagging regressor using Python.
+
+11. How does bagging help reduce overfitting in regression problems?
+
+[Machine Learning Engineer], [Flipkart, Meesho], 2
+
+12. What metrics would you use to evaluate the performance of a custom bagging regressor?
+
+13. Explain the concept of pipelines in machine learning and their advantages.
+
+[Data Scientist], [Swiggy, Amazon], 3
+
+14. How do you use column transformers for preprocessing data with multiple features in different formats?
+
+15. Demonstrate how to train multiple models using a pipeline in Python.
+
+16. What challenges do you face when building pipelines for multiple models?
+
+[Machine Learning Engineer], [Flipkart, Google], 2
+
+17. What is a random forest classifier, and how does it improve over decision trees?
+
+18. How random forest solves the high variance problem?
+
+[Data Scientist], [Amazon, Paytm], 3
+
+19. Compare the working of random forest classifiers and regressors.
+
+[Data Scientist], [Amazon, Paytm], 3
+
+20. How does a random forest handle overfitting, and why is it effective for both classification and regression tasks?
+
+[Machine Learning Engineer], [Google, Zomato], 2
+
+21. Implement a random forest classifier in Python using scikit-learn.
+
+22. How would you tune hyperparameters for a random forest classifier to improve performance?
+
+[Data Scientist], [Flipkart, Microsoft], 3
+
+23. What metrics would you use to evaluate the performance of a random forest classifier on an imbalanced dataset?
+
+24. What is the OOB (Out-of-Bag) score in random forests, and how is it calculated?
+
+[Data Scientist], [Amazon, Swiggy], 2
+
+25. How does the OOB score help in estimating the generalization error of a random forest model?
+
+26. Explain the significance of the OOB score in model validation and selection.
+
+27. How do you use a random forest regressor in a pipeline for training multiple models?
+
+28. What are the benefits of training multiple models using random forest regressors?
+
+29. Demonstrate how to implement multiple model training with random forest regressors in Python.
+
+[Machine Learning Engineer], [Paytm, Flipkart], 2
+
+ 
+
+
