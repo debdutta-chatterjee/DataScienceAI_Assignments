@@ -1,0 +1,192 @@
+Lesson : Interview Questions
+
+KNN Classifier and Regressor
+
+1. What is the difference between K-Nearest Neighbors (KNN) classifier and regressor?
+
+[Data Scientist], [Amazon, Google], 3
+
+2. How does the choice of distance metric affect the performance of a KNN model?
+
+3. Explain the effect of the number of neighbors (k) on the bias-variance tradeoff in KNN.
+
+[Machine Learning Engineer], [Paytm, Zomato], 2
+
+4. What is a KD Tree, and how does it speed up KNN queries in high-dimensional spaces?
+
+5. Compare KD Trees and Ball Trees in terms of their use in KNN.
+
+[Data Scientist], [Google, Microsoft], 3
+
+6. When would you prefer a Ball Tree over a KD Tree for KNN implementation?
+
+ 
+
+K Nearest Classifier
+
+7. Implement a KNN classifier in Python using scikit-learn.
+
+[Data Scientist], [Flipkart, Zomato], 2
+
+8. What are the common challenges associated with KNN classifiers for large datasets?
+
+9. How would you handle imbalanced datasets using a KNN classifier?
+
+[Machine Learning Engineer], [Amazon, Swiggy], 3
+
+
+K Nearest Regressor
+
+10. What are the primary differences in implementation between KNN for classification and regression?
+
+11. Implement a KNN regressor for a regression problem in Python.
+
+12. How would you tune hyperparameters (e.g., k and distance metric) for a KNN regressor?
+
+[Data Scientist], [Google, Amazon], 2
+
+13. Why does the performance of algorithms like K-Nearest Neighbors degrade in high-dimensional space?
+
+14. How does the curse of dimensionality affect distance-based metrics?
+
+15. What techniques can be applied to mitigate the curse of dimensionality?
+
+[Machine Learning Engineer], [Amazon, Zomato], 2
+
+
+Feature Selection and Extraction
+
+16. What is the main difference between feature selection and feature extraction?
+
+[Data Scientist], [Microsoft, Flipkart], 3
+
+17. How can Principal Component Analysis (PCA) be used as a feature extraction technique?
+
+18. Explain how Recursive Feature Elimination (RFE) works.
+
+19. How does feature selection help in reducing overfitting?
+
+
+PCA Geometrical Intuition
+
+20. What is the geometric interpretation of Principal Component Analysis (PCA)?
+
+[Data Scientist], [Google, Amazon], 3
+
+21. How does PCA transform a dataset into a new coordinate system?
+
+22. What role do eigenvectors play in PCA from a geometrical perspective?
+
+
+PCA Mathematical Intuition
+
+23. Derive the covariance matrix and explain its role in PCA.
+
+24. What are the steps involved in mathematically performing PCA?
+
+[Machine Learning Engineer], [Flipkart, Microsoft], 3
+
+25. How do eigenvalues and eigenvectors relate to PCA?
+
+
+PCA Implementation
+
+26. Implement PCA using Python and scikit-learn.
+
+[Data Scientist], [Google, Zomato], 2
+
+27. How would you interpret the explained variance ratio in PCA?
+
+28. Implement PCA from scratch using only NumPy.
+
+Intro to Unsupervised Learning
+
+29. What is unsupervised learning, and how does it differ from supervised learning?
+
+[Machine Learning Engineer], [Paytm, Flipkart], 3
+
+30. What are the main challenges in unsupervised learning?
+
+31. List some popular unsupervised learning algorithms and their applications.
+
+
+K-Means Clustering
+
+32. Explain the algorithm behind K-Means clustering.
+
+33. How would you choose the optimal value of K in K-Means clustering?
+
+[Data Scientist], [Google, Microsoft], 3
+
+34. What are the limitations of K-Means clustering?
+
+35. How does K-Means clustering handle outliers?
+
+
+Hierarchical Clustering & K-Means Comparison
+
+36. Compare the hierarchical clustering and K-Means clustering algorithms.
+
+[Machine Learning Engineer], [Amazon, Zomato], 3
+
+37. What are the advantages of hierarchical clustering over K-Means?
+
+38. In what situations would K-Means clustering be preferable over hierarchical clustering?
+
+
+DBSCAN
+
+39. What is DBSCAN, and how does it differ from K-Means clustering?
+
+40. Explain the role of the epsilon and minPts parameters in DBSCAN.
+
+[Data Scientist], [Microsoft, Flipkart], 3
+
+41. What are the advantages of DBSCAN over other clustering algorithms?
+
+ 
+
+Silhouette Score
+
+42. What is the silhouette score, and how is it used to evaluate clustering?
+
+43. How does the silhouette score help in determining the optimal number of clusters?
+
+[Machine Learning Engineer], [Google, Amazon], 3
+
+44. What would a silhouette score close to 0 indicate about a clustering solution?
+
+
+K-Means Clustering Implementation
+
+45. Implement K-Means clustering using Python and scikit-learn.
+
+46. Use the elbow method to determine the optimal value of K for a dataset.
+
+[Data Scientist], [Flipkart, Swiggy], 3
+
+47. How would you implement the K-Means algorithm from scratch in Python?
+
+
+Hierarchical Clustering Implementation
+
+48. Implement hierarchical clustering in Python using scikit-learn.
+
+49. How do dendrograms help in interpreting the results of hierarchical clustering?
+
+[Machine Learning Engineer], [Paytm, Google], 3
+
+50. Use hierarchical clustering to cluster a dataset and visualize the results.
+
+
+DBSCAN Implementation
+
+51. Implement DBSCAN using Python and scikit-learn.
+
+52. How can DBSCAN be used to detect noise and outliers in a dataset?
+
+[Data Scientist], [Microsoft, Amazon], 3
+
+53. Compare the results of DBSCAN, K-Means, and hierarchical clustering on the same dataset.
+
+
